@@ -135,6 +135,13 @@ const medusaConfig = {
                       },
                     ]
                   : []),
+                // {
+                //   resolve: "@medusajs/medusa/notification-local",
+                //   id: "local",
+                //   options: {
+                //     channels: ["email"],
+                //   },
+                // },
               ],
             },
           },
